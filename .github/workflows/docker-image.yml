@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: charlies0419/Vps_v2r
+          tags: charlies0419/vps_v2r
